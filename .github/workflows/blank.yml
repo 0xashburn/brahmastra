@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'fanta.com'
+  DOMAIN: 'remove.bg'
 
 jobs:
   subdomains:
