@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'powerade.com'
+  DOMAIN: 'fanta.com'
 
 jobs:
   subdomains:
