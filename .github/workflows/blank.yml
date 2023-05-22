@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'adb.org'
+  DOMAIN: 'wur.nl'
 
 jobs:
   subdomains:
